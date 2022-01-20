@@ -1,4 +1,4 @@
-from hashicorp/packer:1.7.8 as build
+from hashicorp/packer:1.7.9 as build
 
 ARG USERNAME=packer
 
